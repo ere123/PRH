@@ -9,7 +9,7 @@ class WebSiteAddress extends ContactDetail
 {
     const TYPE_EN = 'Website address';
     const TYPE_FI = 'Kotisivun www-osoite';
-    const TYPE_SE = 'www-address';
+    const TYPE_SE = 'www-adress';
 
     const TYPES = [
         self::TYPE_EN,
