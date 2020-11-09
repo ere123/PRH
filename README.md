@@ -11,5 +11,5 @@ try {
 }
 
 ```
-##Not found:
+## Not found:
 If business identity code were to pass validation and still not be found in PRH, Client::getCompany() will return null.
